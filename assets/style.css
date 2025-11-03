@@ -1,0 +1,28 @@
+html{
+
+    background-color: grey;
+
+
+    
+}
+
+h1 {
+
+    margin-bottom: 50px;
+    font-style: italic;
+}
+
+#dp { 
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+}
+
+#sld { 
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    
+}
